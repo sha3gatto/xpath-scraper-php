@@ -84,7 +84,7 @@ function xpathSearchLink( $queryLink ) {
 	$doc->preserveWhiteSpace = false;
 	$doc->validateOnParse = false;
 
-	$html = @ file_get_contents( "mrweb.html" );
+	$html = @ file_get_contents( "mrweb_html.php" );
 	@$doc->loadHTML( $html );
 
 	$xpath = new DOMXPath( $doc );
@@ -121,7 +121,7 @@ function xpathSearchText( $queryLink ) {
 	libxml_use_internal_errors(true);
 	libxml_clear_errors();
 
-	$html = @ file_get_contents( "mrweb.html" );
+	$html = @ file_get_contents( "mrweb_html.php" );
 	@$doc->loadHTML( $html );
 
 	$xpath = new DOMXPath( $doc );

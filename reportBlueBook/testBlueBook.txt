@@ -1,0 +1,849 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+<script type="text/javascript">
+function cLoc()
+{
+if(document.getElementById("chkLo").checked == true)
+{document.getElementById("compLoc").style.display = 'block';}
+else
+{document.getElementById("compLoc").style.display = 'none';}
+
+
+}
+
+
+</script>
+
+
+	<title>C&C Market Research, Inc.  - Blue Book - Marketing Research Association</title>
+	<meta name="description" content=" C&C Market Research, Inc. -C&C Market Research, is the complete answer to all of your data collection needs. For over 25 years our highly trained data collection specialists and" />
+ 	<meta name="keywords" content="C&C Market Research, Inc., NancyAnne Canaletich, Ashley Cunningham, Valerie Enns, 137 Spotsylvania Mall #510, Fredericksburg,  VA ,  www.ccmarketresearch.com, Blue Book Research Services Directory" />
+		<link media="screen" rel="stylesheet" href="colorbox.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+
+<link href="files/style.css" rel="stylesheet" type="text/css">
+
+<link href="files/fonts-min.css" rel="stylesheet" type="text/css">
+
+<link href="files/menu.css" rel="stylesheet" type="text/css">
+
+<script src="files/analytics.js" async=""></script><script src="files/yahoo-dom-event.js" type="text/javascript"></script>
+
+<script src="files/container_core-min.js" type="text/javascript"></script>
+
+<script src="files/menu-min.js" type="text/javascript"></script>
+
+<script src="files/jquery-1.js" type="text/javascript"></script>
+
+<script src="files/jquery.js" type="text/javascript"></script>
+
+<script src="files/jquery_003.js" type="text/javascript"></script>
+
+
+<script src="files/SpryTabbedPanels.js" type="text/javascript"></script>
+
+<script src="files/jquery_002.js" type="text/javascript"></script>
+
+<script src="files/jquery-ui.js" type="text/javascript"></script>
+
+<script type="text/xml">
+
+<!--
+
+<oa:widgets>
+
+  <oa:widget wid="2567022" binding="#OAWidget" />
+
+  <oa:widget wid="2140022" binding="#jQueryTabs" />
+
+</oa:widgets>
+
+-->
+
+</script>
+
+<style>
+	.thumb {
+		position: relative;
+		background: #fff;
+		width: 1280px;
+		height: 1080px;
+		margin-left: 30px;
+		-moz-transform: scale(0.2, 0.2);
+		-webkit-transform: scale(0.2, 0.2);
+		-o-transform: scale(0.2, 0.2);
+		-ms-transform: scale(0.2, 0.2);
+		transform: scale(0.2, 0.2);
+		-moz-transform-origin: top left;
+		-webkit-transform-origin: top left;
+		-o-transform-origin: top left;
+		-ms-transform-origin: top left;
+		transform-origin: top left;
+	}
+
+	.thumb iframe {
+		overflow: hidden;
+		width: 100%;
+		height: 100%;
+	}
+
+	.thumb .thumb-link{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
+
+<script type="text/javascript">
+
+  (function($){
+
+    $(function() {
+
+      $('div.TabbedPanelsContent input[type="submit"]').click(function(e){
+
+        var $tab = $(this).parents('div.TabbedPanelsContent');
+
+        if ($tab.find('select[name="country"]').val() == 'none')
+
+        {
+
+          $tab.find('span.req').show();
+
+          e.preventDefault();
+
+          return false;
+
+        }
+
+        else
+
+        {
+
+          $tab.find('span.req').hide();
+
+        }
+
+      });
+
+    });
+
+  })(jQuery);
+
+</script>
+
+<link href="files/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+/* BeginOAWidget_Instance_2174022: #jQueryUIAccordion */
+@import url("https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/ui-lightness/jquery-ui.css");
+/* EndOAWidget_Instance_2174022 */
+
+</style>
+
+<script type="text/javascript" src="https://fast.fonts.net/jsapi/fc24ffc9-199d-4cda-832c-314fd9b76ac2.js"></script>
+<!--script src="files/turbotabs.min.js" type="text/javascript"></script-->
+<script src="files/init.js" type="text/javascript"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css'>
+<link href="responsive/responsive.css" rel="stylesheet" type="text/css">
+
+<link href="/files/icons.data.svg.css" rel="stylesheet" type="text/css"></head>
+
+
+
+<body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3451647-5', 'auto');
+ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+  
+
+
+</script>
+
+
+
+
+
+
+
+<header id="header">    
+
+    <div class="header-block">
+        <div class="header-block-inner">
+            <a href="/" class="logo"><img src="/files/Bluebook_Logo.png" alt="Blue Book Marketing Research Services Directory"></a>
+            
+<div class="header-r">
+              <a href="http://www.insightsassociation.org" class="mra-logo">MRA</a>
+              <ul class="nav-social">
+                <li><a href="https://www.linkedin.com/groupInvitation?groupID=39871" class="icon-social--linkedin">LinkedIn</a></li>
+                <li><a href="https://twitter.com/MRAmrx" class="icon-social--twitter">Twitter</a></li>
+                <li><a href="https://plus.google.com/+MarketingresearchOrg/posts" class="icon-social--googleplus">Google+</a></li>
+                <li><a href="https://www.facebook.com/MarketingResearchAssociation" class="icon-social--facebook">Facebook</a></li>
+              </ul>
+            </div>
+    <div id="hdrAd">
+	
+	
+	
+
+       
+    </div>
+
+        </div>
+    </div>
+
+    <div class="top-block">
+        <div class="top-block-inner">
+          <a href="/" class="logo-sm"><img src="/files/logo-sm.png" alt="Blue Book Marketing Research Services Directory"></a>
+          <div class="toggler">
+            <span class="toggler-txt">Menu</span>
+            <span class="toggler-icon"><span class="toggler-icon-bar"></span></span>
+            
+          </div>
+            <ul class="top-menu">
+                <li class="nav-item"><a class="nav-link" title="" href="/">Home</a></li>
+                <li class="nav-item"><a class="nav-link" title="" href="/about.cfm">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="/listingOverview.cfm">List Your Company</a></li>
+                <!--<li class="nav-item"><a class="nav-link" title="" href="/alert_magazine.cfm">Alert! Magazine</a></li>-->
+                <li class="nav-item nav-item-r faq"><a href="/faq.cfm"><img title="Blue Book FAQ" src="/images/questioncircle.png"><span>FAQ</span></a></li>
+                <li class="nav-item nav-item-r highlighted"><a href="/">New Search</a></li>
+                <li class="nav-item nav-item-r"><a href="/listquick">ListQuick</a></li>
+                <li class="nav-item nav-item-r"><a href="/dashboard.cfm">Dashboard</a></li>
+                <li class="nav-item nav-item-mra"><a href="http://www.insightsassociation.org">Insights Association</a></li>
+
+            </ul>
+        </div>
+    </div>
+
+</header>
+
+
+<div id="page">
+    <div id="content">
+
+<div class="staticPg">
+  
+         <div class="details-top"><h1>C&C Market Research, Inc.</h1> 
+		 
+		 <div style="display:inline; float:right;">
+		
+         	
+         </div></div>
+  
+       <table id="companycontactstable2" border="0" cellpadding="3" cellspacing="0">
+        <tr>
+      
+          <td  valign="top">
+          <div style="margin-left:10px;">
+		  
+          <h2>&nbsp;</h2>
+		  
+
+            <p style="clear:both"><em>Branch</em><br />
+              137 Spotsylvania Mall #510<br />
+            Fredericksburg, VA 22407  </p>
+            <p><strong>P&nbsp; </strong>:   479-785-5637<br />
+            <strong>FX</strong>:   479-785-5645<br />
+                  <strong>EM</strong>:   corp@ccmarketresearch.com <br />
+             								
+             </p>
+            </div>
+		</td>
+		
+          <td  valign="top"><h2 ><strong>Contacts</strong></h2>
+           
+
+            <p><span id="bld">NancyAnne Canaletich </span><br />
+            
+			
+			<img src="/IndividualMemberLogo.png" /><br />
+			
+			National Sales Director<br />
+            
+            <span  title="nancyanne@ccmarketresearch.com">nancyanne@ccmarketresearch.com</span>
+            </p>
+        
+
+            <p><span id="bld">Ashley Cunningham </span><br />
+            
+			Executive Director<br />
+            
+            <span  title="ashley@ccmarketresearch.com">ashley@ccmarketresearch.com</span>
+            </p>
+        
+
+            <p><span id="bld">Valerie Enns </span><br />
+            
+			Project Director<br />
+            
+            <span  title="valerie@ccmarketresearch.com">valerie@ccmarketresearch.com</span>
+            </p>
+        
+
+           </td>
+          <td  valign="top"><span class="style1"></span>
+		
+              <h2 ><strong>On the Web</strong></h2>
+
+	www.ccmarketresearch.com 
+		<br />
+	
+	        </td>
+        
+        <td valign="top">
+        <div id="dashtool">
+        <h2 ><strong>My Dashboard</strong> - <a href="dashboard.cfm" style="font-size:12px" title="Log in to Dashboard">Log In</a> 
+       
+</h2>
+		
+              <div style="font-size:12px; margin-bottom:10px; ">Tools available when logged in</div>
+        		<a href="favorites.cfm?cid=2911&locid=17" title="Add notes/flags/RFP List"><img src="images/NOTESpaper&amp;pencil_48.png" border="0" style="max-height:24px" alt="Add Listing Notes" title="Add Listing Notes" border="0" /> </a>
+                <a href="favorites.cfm?cid=2911&locid=17"><img src="images/RFP_chart_48.png" border="0" style="max-height:24px" alt="Add to RFP List" title="Add to RFP List" /></a>
+                   <a href="favorites.cfm?cid=2911&locid=17&add=fav"><img src="images/checkcircle.png" border="0" style="max-height:24px"  alt="Add as a Favorite" title="Add as a Favorite" /></a>
+                    <br />
+
+
+
+            &nbsp; 
+            </div>
+        </td>
+        
+        </tr>
+		<tr><td colspan="4">
+		<a href="sendRFP.cfm?C&C Market Research, Inc.&cid=2911&locid=17" style="color:red; font-size:18px;">Send RFP Now</a>
+		</td></tr>
+        
+        <tr>
+        	<td colspan="4">
+            <input type="checkbox" style="margin-left:10px;" name="locations" id="chkLo" onclick="cLoc()" /> <span style="font-weight:bold; font-size:14px;">View all company locations </span>
+            
+		
+			<table style="display:none; margin-left:25px;" id="compLoc" border="0">
+			
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=47"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Arlington, TX</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research&cid=2911&locid=40"><strong>C&C Market Research</strong></a></td>
+                <td>Asheville, NC</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research Inc. &cid=2911&locid=32"><strong>C&C Market Research Inc. </strong></a></td>
+                <td>Atlanta, GA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=50"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Aurora, CO</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=42"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Baltimore, MD</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research&cid=2911&locid=57"><strong>C&C Market Research</strong></a></td>
+                <td>Boston, MA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=41"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Bronx, NY</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research Inc. &cid=2911&locid=33"><strong>C&C Market Research Inc. </strong></a></td>
+                <td>Charlotte, NC</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research Inc.&cid=2911&locid=30"><strong>C&C Market Research Inc.</strong></a></td>
+                <td>Chicago, IL</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=46"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Chicago North, IL</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research&cid=2911&locid=35"><strong>C&C Market Research</strong></a></td>
+                <td>Cleveland, OH</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=55"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Cleveland, OH</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=2"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Dallas , TX</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research&cid=2911&locid=28"><strong>C&C Market Research</strong></a></td>
+                <td>Denver, CO</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=45"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Detroit, MI</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research Inc.&cid=2911&locid=31"><strong>C&C Market Research Inc.</strong></a></td>
+                <td>Fayetteville, AR</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=1"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Fort Smith, AR</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=4"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Fort Smith, AR</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=56"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Fort Worth, TX</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=48"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Houston, TX</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research Inc. &cid=2911&locid=29"><strong>C&C Market Research Inc. </strong></a></td>
+                <td>Kansas City, KS</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research Inc. &cid=2911&locid=25"><strong>C&C Market Research Inc. </strong></a></td>
+                <td>Las Vegas, NV</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=43"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Long Island, NY</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=23"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Los Angeles, CA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc. &cid=2911&locid=27"><strong>C&C Market Research, Inc. </strong></a></td>
+                <td>Los Angeles, CA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=51"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Los Angeles, CA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=53"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Miami, FL</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=22"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Milford, CT</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc. &cid=2911&locid=26"><strong>C&C Market Research, Inc. </strong></a></td>
+                <td>New York, NY</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=5"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Oklahoma City, OK</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=11"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Omaha, NE</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=9"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Orlando, FL</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=20"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Philadelphia, PA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=16"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Phoenix, AZ</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=52"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Phoenix, AZ</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=18"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Pittsburgh, PA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=10"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>San Antonio, TX</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=49"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>San Diego, CA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research&cid=2911&locid=34"><strong>C&C Market Research</strong></a></td>
+                <td>San Francisco, CA</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=14"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>St. Louis, MO</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research&cid=2911&locid=37"><strong>C&C Market Research</strong></a></td>
+                <td>Stamford, CT</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=44"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Tallahassee, FL</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=54"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Tampa, FL</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research&cid=2911&locid=39"><strong>C&C Market Research</strong></a></td>
+                <td>Tempe, AZ</td>
+            </tr>
+            
+            <tr>
+            	<td><a href="listing.cfm?C&C Market Research, Inc.&cid=2911&locid=6"><strong>C&C Market Research, Inc.</strong></a></td>
+                <td>Tulsa, OK</td>
+            </tr>
+            
+            </table>
+
+            </td>
+		</tr>
+        
+      </table>
+  <div id="listingdescription">
+    <div id="bustype">
+
+
+		
+
+      <div class="bb_info_headers" style="text-align:center; margin-bottom:3px; height:auto; padding-bottom:5PX; background: #0063b0; color: #fff; background-repeat:repeat-x; font-weight:bold"><strong>Business Type</strong></div>
+	
+      <ul>
+	
+        <li>Data Collection - Qualitative</li>
+    
+        <li>Data Collection - Quantitative</li>
+    
+		</ul>
+    
+<div class="bb_info_headers" style="text-align:center; margin-bottom:10px; margin-left:0px; margin-right:0px; height:auto; padding-bottom:5PX; background: #0063b0; color: #fff; background-repeat:repeat-x; font-weight:bold;">Specialties</div>
+ 	<div style="margin-left:8px;">
+        
+                     <strong style="font-size:13px; margin-bottom:3px; margin-top:3px; color:#333333; font-weight:bold;">Research Methods</strong><br />
+        
+        
+                    <div style="margin-left:12px; margin-bottom:0px; margin-top:3px; padding:0px;">&bull; Eye Tracking </div>
+                
+                    <div style="margin-left:12px; margin-bottom:0px; margin-top:3px; padding:0px;">&bull; Home Use Testing (HUT) </div>
+                
+        <p>&nbsp;</p>
+    </div>
+	
+         </div>
+     	
+
+    <div id="descriptionservices">
+     
+        <table border="0" cellpadding="5" cellspacing="0" bgcolor="#F4F9FD" width="100%">
+     
+     <tr style="border-bottom-color:#666666; border-bottom-style:solid; border-bottom-width:thin;">
+            <th colspan="2" valign="top"style="background: #0063b0; color: #fff;  text-align: center;" >Description</th>
+     </tr>
+     <tr>
+        <td valign="top" colspan="2" style="padding:10px; letter-spacing:.5px">C&C Market Research, is the complete answer to all of your data collection needs. For over 25 years our highly trained data collection specialists and beautifully designed field locations, coupled with our state of the art programming and data transmission capabilities; will ensure your next project is a success. With 50 data collection facilities nationwide, we are the largest privately owned and operated data collection company in the U.S. and have remained a leader in today's marketplace through hard work, ingenuity, and a dedication to quality that is second to none. Our specialties include eye tracking, medical/executive interviewing, Hispanic interviewing, on-site interviewing, sensory testing, shopper insights, mall intercepts, new product development, product purchase retrieval, and much more. Please give us a call today! <P></td>
+     </tr>
+     
+     
+     
+          <tr>
+            <th colspan="2"style="background: #0063b0; color: #fff;  text-align: center;" valign="top">Recruiting Services</th>
+          </tr>
+
+		  
+          <tr class="data">
+            <td valign="top"><strong>Recruit for:</strong> </td>
+            <td valign="top"> focus groups <br /> one-on-ones <br /> central location studies&nbsp;
+              </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Recruiting in-house:</strong> </td>
+            <td valign="top"> <img src="images/checkcircle.png" alt="Yes" width="18" height="18" /> &nbsp; </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Database available:</strong></td>
+            <td valign="top"><img src="images/checkcircle.png" alt="Yes" width="18" height="18" /></td>
+          </tr>
+		  
+
+		  <tr class="data">
+            <td valign="top"><strong>Opt-In for:</strong> </td>
+            <td valign="top"> &nbsp;
+              </td>
+          </tr>
+
+		  <tr class="data">
+            <td valign="top"><strong>Recruit for:</strong> </td>
+            <td valign="top"> &nbsp;
+              </td>
+          </tr>
+
+		  
+          <tr class="data">
+            <td valign="top" width="32%"><strong>Study Types Recruit for:</strong> </td>
+            <td valign="top">consumer <br /> business  </td>
+          </tr>
+		  
+          <tr>
+            <th colspan="2"style="background: #0063b0; color: #fff;  text-align: center;" valign="top">Focus Group Services</th>
+          </tr>
+	
+          <tr class="data">
+            <td valign="top"><strong>One-on-one, In-depth   interviewers:</strong></td>
+            <td valign="top"><img src="images/checkcircle.png" alt="Yes" width="18" height="18" /> </td>
+          </tr>
+		  
+          <tr>
+            <th colspan="2"style="background: #0063b0; color: #fff;  text-align: center;" valign="top">Central Location Testing Facility</th>
+          </tr>
+
+		  
+          <tr class="data">
+            <td valign="top"><strong>Computer/tablet/devices:</strong></td>
+            <td valign="top">  computer/tablet/devices </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Internet Access:</strong></td>
+            <td valign="top"><img src="images/checkcircle.png" alt="Yes" width="18" height="18" />  </td>
+          </tr>
+		  
+          <tr>
+            <th colspan="2"style="background: #0063b0; color: #fff;  text-align: center;" valign="top">Off-Site/Remote Interviewing</th>
+          </tr>
+
+		  
+          <tr class="data">
+            <td valign="top"><strong>In-Store Demos:</strong></td>
+            <td valign="top"><img src="images/checkcircle.png" alt="Yes" width="18" height="18" />   &nbsp;</td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>In-Store Audits:</strong></td>
+            <td valign="top"><img src="images/checkcircle.png" alt="Yes" width="18" height="18" /> &nbsp;</td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Remote/Field Interviewing:</strong></td>
+            <td valign="top">For On-Site Assignments &amp; Mystery Shopping</td>
+          </tr>
+		  
+          <tr>
+            <th colspan="2"style="background: #0063b0; color: #fff;  text-align: center;" valign="top">Mall Location</th>
+          </tr>
+          
+          <tr style="background-color:#666666; color:#FFFFFF;">
+            <td valign="top" ><strong>Mall Name:</strong></td>
+            <td valign="top" ><span style="font-weight:bold;">Spotsylvania Mall</span></td>
+          </tr>
+
+		  
+          <tr class="data">
+            <td valign="top"><strong>City, State, Country:</strong></td>
+            <td valign="top">Fredericksburg, VA  </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Phone:</strong></td>
+            <td valign="top">479-785-5637&nbsp; </td>
+          </tr>
+		  
+
+          <tr class="data">
+            <td valign="top"><strong>Contact Name, Title:</strong></td>
+            <td valign="top">&nbsp; </td>
+          </tr>
+
+		  
+          <tr class="data">
+            <td valign="top"><strong>Enclosed Mall:</strong></td>
+            <td valign="top"><img src="images/checkcircle.png" alt="Yes" width="18" height="18" />  </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Front Entrance Inside Mall:</strong></td>
+            <td valign="top"> <img src="images/checkcircle.png" alt="Yes" width="18" height="18" />   </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Distance from Airport:</strong></td>
+            <td valign="top"> 10 miles  </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Number of Units in Mall:</strong></td>
+            <td valign="top"> 180   </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Test Kitchen:</strong></td>
+            <td valign="top"><img src="images/checkcircle.png" alt="Yes" width="18" height="18" />  </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Client Viewing Capabilities:</strong></td>
+            <td valign="top"><img src="images/checkcircle.png" alt="Yes" width="18" height="18" />  </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Enclosed Interviewing Rooms:</strong></td>
+            <td valign="top">8  </td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Focus Group Room:</strong></td>
+            <td valign="top"> <img src="images/checkcircle.png" alt="Yes" width="18" height="18" /></td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top"><strong>Computers for interviewing:</strong></td>
+            <td valign="top"> 11 available &nbsp;</td>
+          </tr>
+		  
+          <tr class="data">
+            <td valign="top" ><strong>Internet Access:</strong></td>
+            <td valign="top" ><img src="images/checkcircle.png" alt="Yes" width="18" height="18" />  </td>
+          </tr>
+		  
+     
+     
+  
+     
+     </td>
+        </table>
+<br />
+<br />
+<br />
+<br />
+
+  </div>
+
+      
+</div>
+
+
+
+</div></div>
+
+
+
+
+ <div id="footer"><div class="footer-inner">
+        
+            <ul class="bottom-menu">
+                <li><a href="http://www.insightsassociation.org/" id="ftrLink">Insights Association</a></li>
+                <li><a href="/about.cfm" id="ftrLink">About</a></li>
+                <li><a href="/contact.cfm" id="ftrLink">Contact</a></li>
+                <li><a href="/listingOverview.cfm" id="ftrLink">List in Blue Book</a></li>
+                <li><a href="/advertising.cfm" id="ftrLink">Advertise in Blue Book</a></li>
+                <li><a href="http://www.insightsassociation.org/" id="ftrLink">MRA News</a></li>
+                <li><a href="/glossary.cfm" id="ftrLink">Glossary</a></li>
+                <li><a href="http://www.insightsassociation.org/privacy-policy" id="ftrLink">Privacy Notice</a></li>
+            </ul>      
+      
+          <div class="footer-info">
+            <p>Copyright &copy; 2016 Blue Book. All rights reserved.</p>
+            <p>1156 15th Street NW &#8226; Suite 302  &#8226; Washington &#8226; DC &#8226; 20005 &#8226; Tel: 202.800.2545 &#8226; Fax: 888.512.1050 &#8226; <a href="mailto:bluebook@insightsassociation.org" id="ftrLink" onclick="_gaq.push(['_trackEvent','ContactUs', 'EmailClick', 'Footer']);">bluebook@insightsassociation.org</a>
+            </p>
+          </div>
+      
+    <!-- end #footer --></div></div>
+    
+   <!--VISISTAT SNIPPET//-->
+<script type="text/javascript">
+//<![CDATA[
+var DID=234535;
+var pcheck=(window.location.protocol == "https:") ? "https://sniff.visistat.com/live.js":"http://stats.visistat.com/live.js";
+document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'ipt>');
+//]]>
+</script>
+<!--VISISTAT SNIPPET//-->
+
+<!-- OTHER Snippet -->
+
+<script type="text/javascript">
+    vtid = 109372;document.write(unescape("%3Cscript src='" + document.location.protocol + "//code.visitor-track.com/VisitorTrack.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<!--end other snippet-->
+
+<!--snippet from 3.31 -->
+
+<script type="text/javascript" src="https://secure.leadforensics.com/js/69665.js" ></script> 
+<noscript><img src="https://secure.leadforensics.com/69665.png" style="display:none;" /></noscript>
+
+</div>
+
+</body>
+</html>
